@@ -10,7 +10,7 @@ Note : Certain exercises may be in Hebrew.
 
 ## Contributing
 
-Feel free to do send me a message for a better understanding.
+Feel free to send me a message.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
