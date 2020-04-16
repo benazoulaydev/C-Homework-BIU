@@ -1,7 +1,7 @@
 /******************************************
 *Student name: ben azoulay
-*Student ID: 330485269
-*Submit Info: azoualb1
+*Student ID: 
+*Submit Info: 
 *Exercise name: ex5
 ******************************************/
 #include "Mission4.h"
