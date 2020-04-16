@@ -1,7 +1,7 @@
 /******************************************
  *Student name: ben azoulay
- *Student ID: 330485269
- *Submit Info: azoualb1
+ *Student ID: 
+ *Submit Info: 
  *Exercise name: ex6
  ******************************************/
 #define MAX 500
@@ -1318,7 +1318,7 @@ Node *FindPlace(char *newLastName, Node* head)
 /****************************************************************************
  * Function: AddUser                                                            *
  * Action:      Add a new struct to the linked list.                            *
- * Input:      The new user's details and the user of the list’s head.        *
+ * Input:      The new user's details and the user of the list√ïs head.        *
  * Returns:       None.                                                        *
  *****************************************************************************/
 Node** AddUser(char  *bufferWomen, Node** head)
