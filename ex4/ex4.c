@@ -1,6 +1,6 @@
 /******************************************
  *Student name : Ben Azoulay
- * Student : 330485269
+ * Student : 
  * Exercise name : Exercise 4
  ******************************************/
 #include <stdio.h>
